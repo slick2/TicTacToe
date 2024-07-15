@@ -1,0 +1,14 @@
+/home/slick2/choya/TicTacToe/TicTacToe/bin/Debug/net8.0/TicTacToe
+/home/slick2/choya/TicTacToe/TicTacToe/bin/Debug/net8.0/TicTacToe.deps.json
+/home/slick2/choya/TicTacToe/TicTacToe/bin/Debug/net8.0/TicTacToe.runtimeconfig.json
+/home/slick2/choya/TicTacToe/TicTacToe/bin/Debug/net8.0/TicTacToe.dll
+/home/slick2/choya/TicTacToe/TicTacToe/bin/Debug/net8.0/TicTacToe.pdb
+/home/slick2/choya/TicTacToe/TicTacToe/obj/Debug/net8.0/TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/home/slick2/choya/TicTacToe/TicTacToe/obj/Debug/net8.0/TicTacToe.AssemblyInfoInputs.cache
+/home/slick2/choya/TicTacToe/TicTacToe/obj/Debug/net8.0/TicTacToe.AssemblyInfo.cs
+/home/slick2/choya/TicTacToe/TicTacToe/obj/Debug/net8.0/TicTacToe.csproj.CoreCompileInputs.cache
+/home/slick2/choya/TicTacToe/TicTacToe/obj/Debug/net8.0/TicTacToe.dll
+/home/slick2/choya/TicTacToe/TicTacToe/obj/Debug/net8.0/refint/TicTacToe.dll
+/home/slick2/choya/TicTacToe/TicTacToe/obj/Debug/net8.0/TicTacToe.pdb
+/home/slick2/choya/TicTacToe/TicTacToe/obj/Debug/net8.0/TicTacToe.genruntimeconfig.cache
+/home/slick2/choya/TicTacToe/TicTacToe/obj/Debug/net8.0/ref/TicTacToe.dll
